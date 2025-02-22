@@ -1,0 +1,45 @@
+{
+  "name": "adonis-sendgrid-mail",
+  "version": "1.0.0",
+  "description": "AdonisJS Mail transport for SendGrid",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulkitgupta2/adonis-sendgrid-mail.git"
+  },
+  "keywords": [
+    "adonis",
+    "sendgrid",
+    "mail"
+  ],
+  "author": "Pulkit Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulkitgupta2/adonis-sendgrid-mail/issues"
+  },
+  "homepage": "https://github.com/pulkitgupta2/adonis-sendgrid-mail#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4"
+  },
+  "devDependencies": {
+    "@adonisjs/assembler": "^7.8.2",
+    "@adonisjs/core": "^6.17.2",
+    "@adonisjs/mail": "^9.2.2",
+    "@aws-sdk/client-ses": "^3.750.0",
+    "@types/yargs-parser": "^21.0.3",
+    "@vinejs/vine": "^3.0.0",
+    "typescript": "^5.7.3",
+    "yargs-parser": "^21.1.1"
+  },
+  "peerDependencies": {
+    "@adonisjs/mail": "^7.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
