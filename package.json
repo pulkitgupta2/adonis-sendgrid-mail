@@ -1,5 +1,5 @@
 {
-  "name": "adonis-sendgrid-mail",
+  "name": "adonis-v6-sendgrid-mail",
   "version": "1.0.0",
   "description": "AdonisJS Mail transport for SendGrid",
   "main": "index.js",
