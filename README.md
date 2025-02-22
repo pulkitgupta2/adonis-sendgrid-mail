@@ -1,6 +1,6 @@
-# adonis-sendgrid-mail
+# adonis-v6-sendgrid-mail
 
-A lightweight AdonisJS Mail transport for sending emails using [SendGrid](https://sendgrid.com/). This package integrates seamlessly with the `@adonisjs/mail` package, allowing you to send emails efficiently in your AdonisJS applications.
+A lightweight AdonisJS v6 Mail transport for sending emails using [SendGrid](https://sendgrid.com/). This package integrates seamlessly with the `@adonisjs/mail` package, allowing you to send emails efficiently in your AdonisJS applications.
 
 ## Features
 
