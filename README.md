@@ -34,7 +34,7 @@ To use this transport, configure it in your AdonisJS mail configuration file (ty
 ### Example: Basic Configuration
 
 ```
-import { sendGridTransport } from 'adonis-sendgrid-mail'
+import { sendGridTransport } from 'adonis-v6-sendgrid-mail'
 import env from '#start/env'
 import { defineConfig } from '@adonisjs/mail'
 
